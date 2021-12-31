@@ -1,0 +1,6 @@
+class PoetryOperations
+{
+public:
+
+    PoetryOperations();
+};
