@@ -1,0 +1,6 @@
+class NovelOperations
+{
+public:
+
+    NovelOperations();
+};
